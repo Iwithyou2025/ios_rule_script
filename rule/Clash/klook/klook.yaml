@@ -1,0 +1,9 @@
+# NAME: klook
+# AUTHOR: Iwithyou2025
+# REPO: https://github.com/Iwithyou2025/ios_rule_script
+# DOMAIN-SUFFIX: 10
+# TOTAL: 10
+payload:
+  - DOMAIN-SUFFIX,captcha-delivery.com
+  - DOMAIN-SUFFIX,klook.com
+  - DOMAIN-KEYWORD,klook
