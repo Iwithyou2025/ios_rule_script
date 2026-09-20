@@ -5,6 +5,6 @@
 # TOTAL: 10
 payload:
   - DOMAIN-SUFFIX,captcha-delivery.com
-  - DOMAIN-KEYWORD,captcha-delivery
+  - DOMAIN-KEYWORD,static.captcha-delivery.com
   - DOMAIN-SUFFIX,klook.com
   - DOMAIN-KEYWORD,klook
