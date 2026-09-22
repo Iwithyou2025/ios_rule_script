@@ -1,0 +1,10 @@
+# NAME: DIrectCN
+# AUTHOR: Iwithyou2025
+# REPO: https://github.com/Iwithyou2025/ios_rule_script
+# UPDATED: 2025-06-06 09:17:30
+payload:
+  - DOMAIN-SUFFIX,ymf.xiangfubao.com.cn
+  - DOMAIN-SUFFIX,wetype.weixin.qq.com
+  - DOMAIN-SUFFIX,rmonitor.qq.com
+  - DOMAIN-SUFFIX,tenpaygo.wxpapp.weixin.qq.com
+  - DOMAIN-SUFFIX,t.captcha.qq.com
