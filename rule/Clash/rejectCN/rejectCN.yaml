@@ -1,0 +1,16 @@
+# NAME: rejectCN
+# AUTHOR: Iwithyou2025
+# REPO: https://github.com/Iwithyou2025/ios_rule_script
+# UPDATED: 2025-06-06 09:17:30
+payload:
+  - DOMAIN-SUFFIX,allawnfs.com
+  - DOMAIN-SUFFIX,allawntech.com
+  - DOMAIN-SUFFIX,heytapmobi.com
+  - DOMAIN-SUFFIX,hm.baidu.com
+  - DOMAIN-SUFFIX,ceping.qianyingzhi.com
+  - DOMAIN-SUFFIX,msn.cn
+  - DOMAIN-SUFFIX,53kf.com
+  - DOMAIN-KEYWORD,yunduocrm
+  - DOMAIN-KEYWORD,updates.cdn
+  - DOMAIN-SUFFIX,edgedl.me.gvt1.com
+  - DOMAIN-KEYWORD,easyliao
